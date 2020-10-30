@@ -1,7 +1,7 @@
 import smtplib
 
-gmail_user = 'testslugovoi@gmail.com'
-gmail_password = 'qwedcxzas123'
+gmail_user = ''
+gmail_password = ''
 
 
 def send_email(to, body, sent_from=None, subject=""):
